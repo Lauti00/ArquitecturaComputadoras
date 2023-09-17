@@ -1,0 +1,86 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/Facultad/sumador/simulation/modelsim
+vrestador
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1693575219
+!i10b 1
+!s100 :9T_9VP`2Y7Hd[l:b]>TW2
+I=Ko`^kj]OgXB<DE2W2k@a2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 sumador_sv_unit
+S1
+R0
+Z5 w1693575139
+Z6 8C:/Users/Usuario/Documents/Facultad/sumador/sumador.sv
+Z7 FC:/Users/Usuario/Documents/Facultad/sumador/sumador.sv
+L0 28
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1693575219.000000
+Z10 !s107 C:/Users/Usuario/Documents/Facultad/sumador/sumador.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Usuario/Documents/Facultad/sumador|C:/Users/Usuario/Documents/Facultad/sumador/sumador.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+C:/Users/Usuario/Documents/Facultad/sumador
+Z14 tCvgOpt 0
+vsumador
+R1
+R2
+!i10b 1
+!s100 2Kmdb`zBNl;OQ7goQgla=2
+I7NC^[d]X2PE4ZToi;[ZU?1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vsumadorNot
+R1
+R2
+!i10b 1
+!s100 ILo2cBHcAK@[E7Y9VUF_d1
+Ie:efHW2cV<1S9TXA^]:SW3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 18
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nsumador@not

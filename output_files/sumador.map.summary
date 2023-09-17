@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Sep 01 10:33:22 2023
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : sumador
+Top-level Entity Name : sumador
+Family : Cyclone IV E
+Total logic elements : 6
+    Total combinational functions : 6
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 14
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
